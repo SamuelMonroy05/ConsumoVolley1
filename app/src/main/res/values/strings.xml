@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConsumoVolley</string>
+    <string name="tvTitulo">Listado de todos</string>
+    <string name="lvTools"></string>
+</resources>
